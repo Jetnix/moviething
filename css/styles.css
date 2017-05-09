@@ -58,4 +58,39 @@
 }
 
 
+body {
+  margin-bottom: 0px;
+  background-image: url(../img/background2.jpg);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+}
 
+.well{
+background-color: rgba(58, 103, 175,0.5);
+}
+
+button {
+  background-color: rgb(33, 90, 183);
+  margin: 1px;
+}
+
+.well img {
+  width: 250px;
+  height:250px;
+}
+
+.navbar {
+background-color: rgba(0, 0, 153, 0.5);
+}
+
+#header {
+  background-image: url(../img/movies.jpg);
+  background-size: cover;
+}
+.button {
+  text-align: center;
+}
